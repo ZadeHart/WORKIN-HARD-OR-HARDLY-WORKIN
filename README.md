@@ -1,4 +1,4 @@
-# README DYNAMO
+# WORKIN HARD OR HARDLY WORKIN
 ![GitHub License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 # <Your-Project-Title> 
