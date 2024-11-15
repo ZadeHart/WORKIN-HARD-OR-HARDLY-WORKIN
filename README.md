@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1-pIJCbaJyUqaOt0RXUjc-qEooUEEaQ6e/view?usp=drive
 
 ## Description
 
-This project is used to generate a README file.
+This application is used to track and edit employee information.
 
 ## Table of Contents (Optional)
 
